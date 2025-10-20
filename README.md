@@ -7,14 +7,12 @@ All manuscripts are **drafts or unpublished works** and should **not be cited or
 
 **Authorship and Acknowledgment**  
 Each manuscript in this repository includes proper authorship and attribution.  
-Please note that these drafts may have been developed under academic supervision or industrial collaboration (e.g., Queen’s University, iQIYI Inc.),  
-and are not official publications.
+Please note that these drafts may have been developed under academic supervision or industrial collaboration, and are not official publications.
 
 
 **Anonymous Research Manuscripts**  
 Some manuscripts were prepared for peer-review submission and are anonymized in accordance with double-blind review policies.  
-Authorship information is intentionally withheld in the PDFs.  
-They are shared here only as **writing samples** for PhD application evaluation, not for redistribution or citation.
+Authorship information is intentionally withheld in the PDFs. They are shared here only as **writing samples** for PhD application evaluation, not for redistribution or citation.
 
 
 **License Notice**  
