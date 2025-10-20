@@ -11,8 +11,7 @@ Please note that these drafts may have been developed under academic supervision
 
 
 **Anonymous Research Manuscripts**  
-Some manuscripts were prepared for peer-review submission and are anonymized in accordance with double-blind review policies.  
-Authorship information is intentionally withheld in the PDFs. They are shared here only as **writing samples** for PhD application evaluation, not for redistribution or citation.
+Some manuscripts were prepared for peer-review submission and are anonymized in accordance with double-blind review policies. Authorship information is intentionally withheld in the PDFs. They are shared here only as **writing samples** for PhD application evaluation, not for redistribution or citation.
 
 
 **License Notice**  
